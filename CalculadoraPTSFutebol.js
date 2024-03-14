@@ -1,4 +1,4 @@
-/ Função para calcular pontos de um time de futebol
+// Função para calcular pontos de um time de futebol
 function calcularPontos(vitorias, empates) {
     return (vitorias * 3) + empates;
 }
